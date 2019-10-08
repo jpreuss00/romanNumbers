@@ -1,0 +1,22 @@
+{
+  "name": "romannumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpreuss00/romanNumbers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpreuss00/romanNumbers/issues"
+  },
+  "homepage": "https://github.com/jpreuss00/romanNumbers#readme",
+  "dependencies": {
+    "mocha": "^6.2.1"
+  }
+}
